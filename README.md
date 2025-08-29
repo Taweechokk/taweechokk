@@ -46,15 +46,7 @@ This blend allows me to bridge low-level hardware precision with data-driven ins
 - Implemented Locality-Sensitive Hashing (LSH) algorithms for efficient anomaly detection
 - Created intuitive visualizations to help identify potential machinery failures
 - Technologies used: Python, Streamlit, Scikit-learn, Pandas, HTML/CSS/JS
-
-### [Interactive Data Dashboard]
-A React and Tailwind CSS dashboard that visualizes complex datasets with customizable filters and real-time updates, powered by Streamlit on the backend.
-
-### [Smart Home Controller]
-Created firmware using MicroPython and MakeCode JavaScript for an IoT device that integrates with multiple smart home platforms while optimizing for power consumption.
-
-### [Web API Service]
-Built a robust REST API using Node.js and Express to handle data processing and serve as the backend for various frontend applications.
+- [View Repository](https://github.com/Taweechokk/PREMIA)
 
 ## 📊 GitHub Stats
 
@@ -63,14 +55,12 @@ Built a robust REST API using Node.js and Express to handle data processing and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaweechokkWORK&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
-- GitHub: [@TaweechokkWORK](https://github.com/TaweechokkWORK)
+- GitHub: [@Taweechokk](https://github.com/Taweechokk)
 - Email: [taweechok.ptw@gmail.com](mailto:taweechok.ptw@gmail.com)
 
 ## 🔭 Currently Working On
-- Exploring the intersection of AI and IoT technologies
-- Contributing to open-source data visualization libraries
-- Developing low-power firmware solutions for wearable devices
-- Building scalable backend services with Node.js
+- Exploring the intersection of AI, Edge AI, and IoT technologies
+- Contributing to open-source sensor libraries for MCUs
 
 ---
 
