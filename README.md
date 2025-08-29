@@ -1,10 +1,8 @@
-# 👋 Hello, I'm Taweechokk
-
-[![GitHub followers](https://img.shields.io/github/followers/TaweechokkWORK?label=Follow&style=social)](https://github.com/TaweechokkWORK)
-[![Profile views](https://komarev.com/ghpvc/?username=TaweechokkWORK&color=brightgreen)](https://github.com/TaweechokkWORK)
+# 👋 Hello, I'm Taweechok
 
 ## 🚀 About Me
-I'm a versatile technology professional with expertise spanning Frontend Development, Data Science, Firmware Engineering, and Backend Development. This unique combination allows me to approach problems from multiple perspectives, creating solutions that are both user-friendly and technically robust.
+I'm a technology professional specializing in Firmware Engineering and Data Science, with additional experience in Frontend and Backend Development.
+This blend allows me to bridge low-level hardware precision with data-driven insights, delivering solutions that are both deeply technical and practically impactful.
 
 ## 💻 Tech Stack
 ### Firmware Engineering
